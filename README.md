@@ -6,3 +6,4 @@
 ![Alt Text](https://github.com/Larasati11/JOBSHEET-12/blob/master/Latihan%203%20ke%202.png "hasil tiga kedua")
 ![Alt Text](https://github.com/Larasati11/JOBSHEET-12/blob/master/Latihan%203%20ke%203.png "hasil tiga ketiga")
 ![Alt Text](https://github.com/Larasati11/JOBSHEET-12/blob/master/Latihan%203%20ke%204.png "hasil tiga keempat")
+![Alt Text](https://github.com/Larasati11/JOBSHEET-12/blob/master/Latihan%204.png "hasil empat")
